@@ -13,8 +13,6 @@ A branch version that allows sending push notifications to all the browsers whet
 
 - rename .env.example to .env and configure your database.
 
-- generate application key.
-
 ```bash
     php artisan key:generate
 ```
